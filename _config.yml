@@ -8,3 +8,5 @@ twitter_username: gvillalta99
 github_username:  gvillalta99
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: jekyll-theme-minimal
