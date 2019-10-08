@@ -5,4 +5,4 @@ relacionados com um pitada de opiniões e experiências pessoais.
 
 # Artigos
 
-- [Sobre transações](/pages/about-transactions)
+- [Sobre transações](./pages/about-transactions)
