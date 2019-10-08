@@ -5,4 +5,5 @@ relacionados com um pitada de opiniões e experiências pessoais.
 
 # Artigos
 
+- [Sobre IO bloqueante](pages/about-blocking-io)
 - [Sobre transações](pages/about-transactions)
